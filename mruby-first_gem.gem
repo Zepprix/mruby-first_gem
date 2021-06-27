@@ -1,0 +1,7 @@
+name: mruby-first_gem
+description: FirstGem class
+author: Kuniaki Moriya
+website: https://github.com/k_moriya/mruby-first_gem
+protocol: git
+repository: https://github.com/k_moriya/mruby-first_gem.git
+license: MIT
